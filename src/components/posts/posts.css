@@ -1,0 +1,9 @@
+.post-item__comments {
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.post-item__comments-toggle {
+    text-align: center;
+    font-weight: bold;
+}
